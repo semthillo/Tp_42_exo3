@@ -1,8 +1,8 @@
 Définir les objectifs
-Planifier le projet
 Rassembler les informations
 Développer le plan d'action
-Exécuter le plan
-Évaluer les progrès
+Évaluer les avancement du projet
 Finaliser et livrer
 Clore le projet
+Exécuter
+Présenter le projet
